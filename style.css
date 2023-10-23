@@ -15,6 +15,7 @@ header {
     width: 15%;
     height: auto;
     float: left;
+    margin-left: 30px;
 }
 nav {
     float: right;
@@ -45,4 +46,97 @@ nav {
 }
 .material-symbols-outlined:hover{
     transform: scale(1.2);
+}
+.content{
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+main {
+    width: 1115px;
+    margin-top: 15px;
+    margin-left: calc(50% - 600px);
+}
+.inline{
+    display: inline-block;
+}
+.left{
+    float: left;
+    width: 35%;
+}
+h1 {
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 100px;
+    margin-left: 25px;
+}
+p {
+    font-size: 36px;
+    font-weight: bold;
+    margin-left: 25px;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+.photo{
+    float: right;
+    width: 60%;
+    height: 470px;
+    margin-top: 36px;
+}
+.shop{
+    margin-left: 25px;
+    margin-top: 40px;
+    text-transform: capitalize;
+    display: inline-block;
+    text-decoration: none;
+    border: 1.5px solid #333;
+    padding: 10px 20px;
+    border-radius: 3px;
+    color: #333;
+    transition: .4s ease;
+}
+.shop:hover{
+    background-color: #333;
+    color: white;
+}
+.buttons {
+    margin-left: 500px;
+}
+button{
+    font-size: 20px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    margin-left: 20px;
+    width: 25px;
+    height: 25px;
+}
+button:hover{
+    border:1px solid #333;
+    border-radius: 50%;
+}
+.first-button{
+    font-size: 20px;
+    border: 1px solid #333;
+    border-radius: 50%;
+    background-color: transparent;
+    cursor: pointer;
+    padding: 2px;
+    width: 25px;
+    height: 25px;
+}
+.left-arrow{
+    width: 30px;
+}
+.right-arrow{
+    width: 30px;;
+}
+.material-symbols-outlined.left-arrow{
+    font-size: 36px;
+    margin-left: 10px;
+    color:#999999;
+}
+.material-symbols-outlined.right-arrow{
+    font-size: 36px;
+    color:#999999;
 }
