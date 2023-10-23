@@ -12,14 +12,13 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://karolinamonkeviciute.github.io/homePage/
+Site published at: https://karolinamonkeviciute.github.io/Sneakers-E-Shop-Design/
 
-Design: [BICYCLE RENT](https://dribbble.com/shots/4026998-Home-Page-for-Bicycle-Booking/attachments/10156345?mode=media)
+Design: [SNEAKER E-SHOP](https://www.figma.com/file/oFQwNux1pfF6YYx6bqyfSn/Sneaker-Hero-Section-(Community)?type=design&node-id=1-329&mode=design&t=lh1zppvvLA4iC9T4-0)
 
 ## 🎯 Project features/goals
 
 -   desktop only
--   practice gradients
 -   practice nav menu designs
 
 ## 🧰 Getting Started
@@ -44,7 +43,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/KarolinaMonkeviciute/realEstate
+    git clone https://karolinamonkeviciute.github.io/Sneakers-E-Shop-Design/
     ```
 2. Install NPM packages
     ```sh
